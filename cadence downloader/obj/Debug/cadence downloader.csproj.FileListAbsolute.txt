@@ -1,0 +1,6 @@
+C:\Users\nasko222\Documents\SharpDevelop Projects\cadence downloader\cadence downloader\bin\Debug\cadence downloader.exe.config
+C:\Users\nasko222\Documents\SharpDevelop Projects\cadence downloader\cadence downloader\bin\Debug\cadence downloader.exe
+C:\Users\nasko222\Documents\SharpDevelop Projects\cadence downloader\cadence downloader\bin\Debug\cadence downloader.pdb
+C:\Users\nasko222\Documents\SharpDevelop Projects\cadence downloader\cadence downloader\obj\Debug\cadence downloader.csprojResolveAssemblyReference.cache
+C:\Users\nasko222\Documents\SharpDevelop Projects\cadence downloader\cadence downloader\obj\Debug\cadence downloader.exe
+C:\Users\nasko222\Documents\SharpDevelop Projects\cadence downloader\cadence downloader\obj\Debug\cadence downloader.pdb
