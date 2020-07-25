@@ -1,11 +1,4 @@
-﻿/*
- * Created by SharpDevelop.
- * User: nasko222
- * Date: 11-May-20
- * Time: 1:01 PM
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
- */
+
 using System;
 using System.Drawing;
 
